@@ -1,3 +1,9 @@
+### Equipe:
+
+Victor Crispim
+
+Larah Queiroz
+
 # Descrição:
 
 O sistema é um site simples para gerenciamento de usuários e veículos, oferecendo operações de cadastro, consulta, edição e remoção. 
